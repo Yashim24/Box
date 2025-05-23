@@ -1,0 +1,60 @@
+.image{
+    width: 100%;
+    margin-top: 100px;
+}
+.image img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 360px;
+    border:1px solid;
+}
+.image img:hover{
+    color: aqua;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.icon{
+    background-color: rgb(233, 216, 216);
+    padding: 0%;
+    width: 100%;
+}
+.iconimage{
+    text-align: right;
+}
+.logo{
+    background-color: whitesmoke;
+    width: 100%;
+}
+.logo h1{
+    color: blue;
+    border: 0rem;
+    text-align: center;
+    text-size-adjust: 55px;
+    text-decoration: solid;
+}
+.text p{
+    text-align: justify;
+        color: blue;
+    width: 100%;
+    text-align: center;
+}
+.text h4{
+    text-align: center;
+    color: blue;
+}
+.id{
+    width: 155px;
+    padding: 22px;
+    border-color: blue;
+    height: 122px;
+    align-self: center;
+}
+.button{
+    background-color: aquamarine;
+    align-content: center;
+}
